@@ -139,6 +139,17 @@
         "connectedGateway": "Connected gateways",
         "connectedSwitches": "Connected switches"
     },
+    "openevse": {
+        "vehicle": "Vehicle",
+        "vehicle_none": "None",
+        "vehicle_connected": "Connected",
+        "power": "Power",
+        "energy_session": "Energy (Session)",
+        "energy_month": "Energy (Month)",
+        "watt": "W",
+        "watt_hour": "Wh",
+        "kilowatt_hour": "kWh"
+    },
     "nzbget": {
         "rate": "Rate",
         "remaining": "Remaining",
